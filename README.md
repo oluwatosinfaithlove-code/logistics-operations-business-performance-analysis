@@ -133,7 +133,7 @@ This dashboard provides a high-level overview of logistics operations and fleet 
 
 To provide management with a consolidated view of business activity, fleet productivity, and overall operational performance.
 
-![Executive Operations & Fleet Performance Dashboard](dashboard-1-executive-operations.png.png)
+![Executive Operations & Fleet Performance Dashboard](dashboards/dashboard-1-executive-operations.png.png)
 
 ---
 
