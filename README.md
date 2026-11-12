@@ -156,7 +156,7 @@ This dashboard focuses on driver productivity, delivery reliability, and fuel ef
 
 To identify differences in driver performance, monitor fuel efficiency, and support targeted improvements in driver productivity and operational cost management.
 
-![Driver Performance & Fuel Efficiency Dashboard](dashboard-2-driver-fuel-efficiency.png)
+![Driver Performance & Fuel Efficiency Dashboard](dashboards/dashboard-2-driver-fuel-efficiency.png.png)
 
 ---
 
