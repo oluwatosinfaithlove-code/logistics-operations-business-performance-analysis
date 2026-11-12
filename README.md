@@ -179,7 +179,7 @@ This dashboard provides deeper analysis of route contribution, customer performa
 
 To support route performance evaluation, customer management, preventive maintenance planning, and improved safety monitoring.
 
-![Route, Customer, Maintenance & Safety Dashboard](dashboard-3-route-customer-maintenance-safety.png)
+![Route, Customer, Maintenance & Safety Dashboard](dashboards/dashboard-3-route-customer-maintenance-safety.png.png)
 
 ---
 
