@@ -133,7 +133,7 @@ This dashboard provides a high-level overview of logistics operations and fleet 
 
 To provide management with a consolidated view of business activity, fleet productivity, and overall operational performance.
 
-![Executive Operations & Fleet Performance Dashboard](dashboards/dashboard-1-executive-operations.png)
+![Executive Operations & Fleet Performance Dashboard](dashboard-1-executive-operations.png.png)
 
 ---
 
@@ -156,7 +156,7 @@ This dashboard focuses on driver productivity, delivery reliability, and fuel ef
 
 To identify differences in driver performance, monitor fuel efficiency, and support targeted improvements in driver productivity and operational cost management.
 
-![Driver Performance & Fuel Efficiency Dashboard](dashboards/dashboard-2-driver-fuel-efficiency.png)
+![Driver Performance & Fuel Efficiency Dashboard](dashboard-2-driver-fuel-efficiency.png)
 
 ---
 
@@ -179,7 +179,7 @@ This dashboard provides deeper analysis of route contribution, customer performa
 
 To support route performance evaluation, customer management, preventive maintenance planning, and improved safety monitoring.
 
-![Route, Customer, Maintenance & Safety Dashboard](dashboards/dashboard-3-route-customer-maintenance-safety.png)
+![Route, Customer, Maintenance & Safety Dashboard](dashboard-3-route-customer-maintenance-safety.png)
 
 ---
 
